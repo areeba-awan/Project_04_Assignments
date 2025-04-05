@@ -69,6 +69,7 @@ cd Python-Projects
 python -m venv venv
 
 Activate the virtual environment:
+
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 ## Install Dependencies:
@@ -86,8 +87,9 @@ Let's collaborate and build amazing things together! Feel free to reach out for 
 
 🔹 GitHub: https://github.com/areeba-awan
 
-🔹 LinkedIn: inkedin.com/in/areeba-awan🧕🏻-5269942b5/
+🔹 LinkedIn: https://www.linkedin.com/in/areeba-awan%F0%9F%A7%95%F0%9F%8F%BB-5269942b5/
 
+---
 ## Created with ❤️ by Areeba Awan
 
 ## Let me know if you'd like further tweaks! 🚀
