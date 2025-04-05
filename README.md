@@ -44,9 +44,9 @@ Explore key Python topics in the `homework_projects` directory:
 - ✅ **07_information_flow**: Process and handle data seamlessly.
 
 
-### Assignments 01 t0 06
+## Assignments 01 t0 06
 
-# Deployment Link of Project 08 and 09 :
+## Deployment Link of Project 08 and 09 :
 
 ## Project : 08
 🔗 Streamlit Link : https://areeba-awan-bmi-calculator.streamlit.app/
