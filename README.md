@@ -67,7 +67,7 @@ cd Python-Projects
 ## Set up a Virtual Environment (Recommended):
 
 python -m venv venv
-# Activate the virtual environment:
+Activate the virtual environment:
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 ## Install Dependencies:
